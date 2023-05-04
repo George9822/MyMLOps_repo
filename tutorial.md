@@ -90,3 +90,5 @@ The metrics collected by Prometheus are used to create monitoring dashboards wit
 ## Make predictions
 
 Finally, we test our setup using a notebook to make prediction requests to the deployed model. After sending some requests, you can visualize the metrics in Grafana. The prediction requests in a typical production workflow would come from your own application.
+
+## END OF TUTORIAL
